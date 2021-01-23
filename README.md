@@ -1,1 +1,1 @@
-hoge
+hoge  aiueo
